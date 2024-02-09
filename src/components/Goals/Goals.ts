@@ -1,7 +1,10 @@
 export const GOLAS = [
   {
     id: 1,
-    title: "القضاء على الفقر",
+    title: "القضاء على الفقر بجميع أشكاله في كل مكان",
+    src: "goals/g1.jpg",
+    bg: "goals/g1bg.jpg",
+    url: "/goal/1",
     description: [
       {
         src: "goals/g11.jpg",
@@ -39,12 +42,13 @@ export const GOLAS = [
           "وضع أطر سياساتية سليمة على كل من الصعيد الوطني والإقليمي والدولي، استنادًا إلى استراتيجيات إنمائية مراعية لمصالح الفقراء ومراعية للمنظور الجنساني، من أجل تسريع وتيرة الاستثمار في الإجراءات الرامية إلى القضاء على الفقر",
       },
     ],
-    src: "goals/g1.jpg",
-    url: "/goal/1",
   },
   {
     id: 2,
-    title: "هدف 1: لا فقر",
+    title:
+      "القضاء على الجوع وتوفير الأمن الغذائي والتغذية المحسّنة وتعزيز الزراعة المستدامة",
+    bg: "goals/g1bg.jpg",
+
     description: [
       {
         src: "goals/g11.jpg",
@@ -92,7 +96,9 @@ export const GOLAS = [
   },
   {
     id: 3,
-    title: "هدف 1: لا فقر",
+    title: "ضمان تمتّع الجميع بأنماط عيش صحية وبالرفاهية في جميع الأعمار",
+    bg: "goals/g1bg.jpg",
+
     description: [
       {
         src: "goals/g11.jpg",
@@ -165,7 +171,10 @@ export const GOLAS = [
   },
   {
     id: 4,
-    title: "هدف 1: لا فقر",
+    title:
+      "ضمان التعليم الجيد المنصف والشامل للجميع وتعزيز فرص التعلّم مدى الحياة للجميع",
+    bg: "goals/g1bg.jpg",
+
     description: [
       {
         src: "goals/g11.jpg",
@@ -223,7 +232,9 @@ export const GOLAS = [
   },
   {
     id: 5,
-    title: "هدف 1: لا فقر",
+    title: "تحقيق المساواة بين الجنسين وتمكين كل النساء والفتيات",
+    bg: "goals/g1bg.jpg",
+
     description: [
       {
         src: "goals/g11.jpg",
@@ -275,7 +286,9 @@ export const GOLAS = [
   },
   {
     id: 6,
-    title: "هدف 1: لا فقر",
+    title: "ضمان توافر المياه وخدمات الصرف الصحي للجميع",
+    bg: "goals/g1bg.jpg",
+
     description: [
       {
         src: "goals/g11.jpg",
@@ -323,7 +336,10 @@ export const GOLAS = [
   },
   {
     id: 7,
-    title: "هدف 1: لا فقر",
+    title:
+      "ضمان حصول الجميع بتكلفة ميسورة على خدمات الطاقة الحديثة الموثوقة والمستدامة",
+    bg: "goals/g1bg.jpg",
+
     description: [
       {
         src: "goals/g11.jpg",
@@ -356,7 +372,10 @@ export const GOLAS = [
   },
   {
     id: 8,
-    title: "هدف 1: لا فقر",
+    title:
+      "تعزيز النمو الاقتصادي المطرد والشامل للجميع والمستدام، والعمالة الكاملة والمنتجة، وتوفير العمل اللائق للجميع",
+    bg: "goals/g1bg.jpg",
+
     description: [
       {
         src: "goals/g11.jpg",
@@ -424,7 +443,10 @@ export const GOLAS = [
   },
   {
     id: 9,
-    title: "هدف 1: لا فقر",
+    title:
+      "إقامة بنى تحتية قادرة على الصمود، وتحفيز التصنيع الشامل للجميع والمستدام، وتشجيع الابتكار",
+    bg: "goals/g1bg.jpg",
+
     description: [
       {
         src: "goals/g11.jpg",
@@ -472,7 +494,9 @@ export const GOLAS = [
   },
   {
     id: 10,
-    title: "هدف 1: لا فقر",
+    title: "الحد من انعدام المساواة داخل البلدان وفيما بينها",
+    bg: "goals/g1bg.jpg",
+
     description: [
       {
         src: "goals/g11.jpg",
@@ -530,7 +554,10 @@ export const GOLAS = [
   },
   {
     id: 11,
-    title: "هدف 1: لا فقر",
+    title:
+      "جعل المدن والمستوطنات البشرية شاملة للجميع وآمنة وقادرة على الصمود ومستدامة",
+    bg: "goals/g1bg.jpg",
+
     description: [
       {
         src: "goals/g11.jpg",
@@ -588,7 +615,9 @@ export const GOLAS = [
   },
   {
     id: 12,
-    title: "هدف 1: لا فقر",
+    title: "ضمان وجود أنماط استهلاك وإنتاج مستدامة",
+    bg: "goals/g1bg.jpg",
+
     description: [
       {
         src: "goals/g11.jpg",
@@ -651,7 +680,9 @@ export const GOLAS = [
   },
   {
     id: 13,
-    title: "هدف 1: لا فقر",
+    title: "اتخاذ إجراءات عاجلة للتصدي لتغير المناخ وآثاره",
+    bg: "goals/g1bg.jpg",
+
     description: [
       {
         src: "goals/g11.jpg",
@@ -684,7 +715,10 @@ export const GOLAS = [
   },
   {
     id: 14,
-    title: "هدف 1: لا فقر",
+    title:
+      "حفظ المحيطات والبحار والموارد البحرية واستخدامها على نحو مستدام لتحقيق التنمية المستدامة",
+    bg: "goals/g1bg.jpg",
+
     description: [
       {
         src: "goals/g11.jpg",
@@ -742,7 +776,10 @@ export const GOLAS = [
   },
   {
     id: 15,
-    title: "هدف 1: لا فقر",
+    title:
+      "حماية النظم الإيكولوجية البرية وترميمها وتعزيز استخدامها على نحو مستدام، وإدارة الغابات على نحو مستدام، ومكافحة التصحر، ووقف تدهور الأراضي وعكس مساره، ووقف فقدان التنوع البيولوجي",
+    bg: "goals/g1bg.jpg",
+
     description: [
       {
         src: "goals/g11.jpg",
@@ -810,7 +847,10 @@ export const GOLAS = [
   },
   {
     id: 16,
-    title: "هدف 1: لا فقر",
+    title:
+      "التشجيع على إقامة مجتمعات مسالمة لا يهمش فيها أحد من أجل تحقيق التنمية المستدامة، وإتاحة إمكانية وصول الجميع إلى العدالة",
+    bg: "goals/g1bg.jpg",
+
     description: [
       {
         src: "goals/g11.jpg",
@@ -877,7 +917,10 @@ export const GOLAS = [
   },
   {
     id: 17,
-    title: "هدف 1: لا فقر",
+    title:
+      "تعزيز وسائل التنفيذ وتنشيط الشراكة العالمية من أجل التنمية المستدامة",
+    bg: "goals/g1bg.jpg",
+
     description: [
       {
         src: "goals/g11.jpg",

@@ -16,12 +16,12 @@ const Goal = () => {
   return (
     <div>
       <div className="">
-        <img src={`/${goal?.src}`} alt="" />
+        <img src={`/${goal?.bg}`} alt="" />
       </div>
       <div className="p-8 flex flex-col gap-y-4">
         <h4
           className={cn(
-            "text-2xl text-center bg-primary text-primary-foreground p-4 rounded-md shadow-md font-bold "
+            "text-xl text-center bg-primary text-primary-foreground p-4 rounded-md shadow-md font-bold "
           )}
         >
           {goal?.title}
