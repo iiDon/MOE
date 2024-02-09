@@ -47,7 +47,7 @@ export const GOLAS = [
     id: 2,
     title:
       "القضاء على الجوع وتوفير الأمن الغذائي والتغذية المحسّنة وتعزيز الزراعة المستدامة",
-    bg: "goals/g1bg.jpg",
+    bg: "goals/g2bg.jpg",
 
     description: [
       {
@@ -97,7 +97,7 @@ export const GOLAS = [
   {
     id: 3,
     title: "ضمان تمتّع الجميع بأنماط عيش صحية وبالرفاهية في جميع الأعمار",
-    bg: "goals/g1bg.jpg",
+    bg: "goals/g3bg.jpg",
 
     description: [
       {
@@ -173,7 +173,7 @@ export const GOLAS = [
     id: 4,
     title:
       "ضمان التعليم الجيد المنصف والشامل للجميع وتعزيز فرص التعلّم مدى الحياة للجميع",
-    bg: "goals/g1bg.jpg",
+    bg: "goals/g4bg.jpg",
 
     description: [
       {
@@ -233,7 +233,7 @@ export const GOLAS = [
   {
     id: 5,
     title: "تحقيق المساواة بين الجنسين وتمكين كل النساء والفتيات",
-    bg: "goals/g1bg.jpg",
+    bg: "goals/g5bg.jpg",
 
     description: [
       {
@@ -287,7 +287,7 @@ export const GOLAS = [
   {
     id: 6,
     title: "ضمان توافر المياه وخدمات الصرف الصحي للجميع",
-    bg: "goals/g1bg.jpg",
+    bg: "goals/g6bg.jpg",
 
     description: [
       {
@@ -338,7 +338,7 @@ export const GOLAS = [
     id: 7,
     title:
       "ضمان حصول الجميع بتكلفة ميسورة على خدمات الطاقة الحديثة الموثوقة والمستدامة",
-    bg: "goals/g1bg.jpg",
+    bg: "goals/g7bg.jpg",
 
     description: [
       {
@@ -374,7 +374,7 @@ export const GOLAS = [
     id: 8,
     title:
       "تعزيز النمو الاقتصادي المطرد والشامل للجميع والمستدام، والعمالة الكاملة والمنتجة، وتوفير العمل اللائق للجميع",
-    bg: "goals/g1bg.jpg",
+    bg: "goals/g8bg.jpg",
 
     description: [
       {
