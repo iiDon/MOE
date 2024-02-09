@@ -445,7 +445,7 @@ export const GOLAS = [
     id: 9,
     title:
       "إقامة بنى تحتية قادرة على الصمود، وتحفيز التصنيع الشامل للجميع والمستدام، وتشجيع الابتكار",
-    bg: "goals/g1bg.jpg",
+    bg: "goals/g9bg.jpg",
 
     description: [
       {
@@ -495,7 +495,7 @@ export const GOLAS = [
   {
     id: 10,
     title: "الحد من انعدام المساواة داخل البلدان وفيما بينها",
-    bg: "goals/g1bg.jpg",
+    bg: "goals/g10bg.jpg",
 
     description: [
       {
@@ -556,7 +556,7 @@ export const GOLAS = [
     id: 11,
     title:
       "جعل المدن والمستوطنات البشرية شاملة للجميع وآمنة وقادرة على الصمود ومستدامة",
-    bg: "goals/g1bg.jpg",
+    bg: "goals/g11bg.jpg",
 
     description: [
       {
@@ -616,7 +616,7 @@ export const GOLAS = [
   {
     id: 12,
     title: "ضمان وجود أنماط استهلاك وإنتاج مستدامة",
-    bg: "goals/g1bg.jpg",
+    bg: "goals/g12bg.jpg",
 
     description: [
       {
@@ -681,7 +681,7 @@ export const GOLAS = [
   {
     id: 13,
     title: "اتخاذ إجراءات عاجلة للتصدي لتغير المناخ وآثاره",
-    bg: "goals/g1bg.jpg",
+    bg: "goals/g13bg.jpg",
 
     description: [
       {
@@ -717,7 +717,7 @@ export const GOLAS = [
     id: 14,
     title:
       "حفظ المحيطات والبحار والموارد البحرية واستخدامها على نحو مستدام لتحقيق التنمية المستدامة",
-    bg: "goals/g1bg.jpg",
+    bg: "goals/g14bg.jpg",
 
     description: [
       {
@@ -778,7 +778,7 @@ export const GOLAS = [
     id: 15,
     title:
       "حماية النظم الإيكولوجية البرية وترميمها وتعزيز استخدامها على نحو مستدام، وإدارة الغابات على نحو مستدام، ومكافحة التصحر، ووقف تدهور الأراضي وعكس مساره، ووقف فقدان التنوع البيولوجي",
-    bg: "goals/g1bg.jpg",
+    bg: "goals/g15bg.jpg",
 
     description: [
       {
@@ -849,7 +849,7 @@ export const GOLAS = [
     id: 16,
     title:
       "التشجيع على إقامة مجتمعات مسالمة لا يهمش فيها أحد من أجل تحقيق التنمية المستدامة، وإتاحة إمكانية وصول الجميع إلى العدالة",
-    bg: "goals/g1bg.jpg",
+    bg: "goals/g16bg.jpg",
 
     description: [
       {
@@ -919,7 +919,7 @@ export const GOLAS = [
     id: 17,
     title:
       "تعزيز وسائل التنفيذ وتنشيط الشراكة العالمية من أجل التنمية المستدامة",
-    bg: "goals/g1bg.jpg",
+    bg: "goals/g17bg.jpg",
 
     description: [
       {
