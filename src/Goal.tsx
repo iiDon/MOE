@@ -34,18 +34,18 @@ const Goal = () => {
               <AccordionItem key={index} value={String(index + 1)}>
                 <AccordionTrigger>
                   <h1 className="text-primary font-bold  truncate text-nowrap ">
-                    {desc.content.length > 15
-                      ? desc.content.slice(0, 15) + "..."
+                    {desc.content.length > 25
+                      ? desc.content.slice(0, 25) + "..."
                       : desc.content + "..."}
                   </h1>
                 </AccordionTrigger>
                 <AccordionContent>
                   <div className="flex flex-col gap-8 items-start ">
-                    <img
+                    {/* <img
                       src={`/${desc.src}`}
                       alt=""
                       className="w-24 h-24 rounded-md"
-                    />
+                    /> */}
                     <p className="text-justify">{desc.content}</p>
                     <Separator className=" rounded-full bg-primary" />
                   </div>{" "}
