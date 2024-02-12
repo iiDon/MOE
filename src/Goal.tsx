@@ -15,8 +15,8 @@ const Goal = () => {
   const goal = GOLAS.find((goal) => String(goal.id) === goalId);
   return (
     <div>
-      <div className="">
-        <img src={`/${goal?.bg}`} alt="" />
+      <div className="w-screen">
+        <img src={`/${goal?.bg}`} alt="" className="object-cover" />
       </div>
       <div className="p-8 flex flex-col gap-y-4">
         <h4
